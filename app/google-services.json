@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671002201063",
+    "project_id": "loginfirebase-8b069",
+    "storage_bucket": "loginfirebase-8b069.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671002201063:android:31cbc98524693f63cf4b42",
+        "android_client_info": {
+          "package_name": "co.edu.unab.valerialozano.unabshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHv7kEWnm0NIAVXQhYRsdauCQvRTLKQQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
