@@ -46,7 +46,7 @@ fun HomeScreen(onClickLogout: () -> Unit = {}) {
         topBar = {
             MediumTopAppBar(
                 title = {
-                    Text("Unab Shop", fontWeight = FontWeight.Bold, fontSize = 28.sp)
+                    Text("Unab Shopppp", fontWeight = FontWeight.Bold, fontSize = 28.sp)
                 },
                 actions = {
                     IconButton(onClick = { }) {
